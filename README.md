@@ -13,3 +13,7 @@
 - redux
 - redux-thunk
 - react-router-dom
+
+
+https://github.com/sedatcalis/Redux--thunk-ecommerce/assets/140658531/df6d1f43-5d6d-45e1-81f0-c749a7d73911
+
